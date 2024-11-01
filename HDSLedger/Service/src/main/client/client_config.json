@@ -1,0 +1,17 @@
+[
+    {   
+        "id": "5",
+        "isleader": false,
+        "hostname": "localhost",
+        "port": 3005,
+        "balance": 100
+    },
+    {
+        "id": "6",
+        "isleader": false,
+        "hostname": "localhost",
+        "port": 3006,
+        "balance": 100
+    }
+
+]
